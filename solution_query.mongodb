@@ -10,25 +10,25 @@ db.employees.insertMany([
     age: 25
   },
   {
-    name: "Raj",
+    name: "Rudra",
     department: "HR",
     salary: 50000,
     age: 24
   },
   {
-    name: "sumit",
+    name: "Manan",
     department: "Sales",
     salary: 45000,
     age: 25
   },
   {
-    name: "pratham",
+    name: "Manav",
     department: "Marketing",
     salary: 5000,
     age: 30
   },
   {
-    name: "darshan",
+    name: "Rahul",
     department: "Marketing",
     salary: 35000,
     age: 33
